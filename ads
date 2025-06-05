@@ -5,7 +5,5 @@
 "tg":"https://t.me/iqowoq",
 "fb":"https://www.facebook.com/romeodyler99?mibextid=ZbWKwL",
 "vk":"https://vk.com/darksite18plus",
-"sp":"",
-"linkk":"https://t.me/iqowoq",
 "detimg":"https://iili.io/FdZjydv.jpg",
 "detlink":"https://t.me/iqowoq"}
