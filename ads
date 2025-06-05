@@ -1,6 +1,6 @@
-{"image":"https://thumbsnap.com/i/7J8oqJKr.jpg?0605",
+{"image":"https://iili.io/FdZjydv.jpg",
 "link":"https://t.me/iqowoq",
-"aad":"https://thumbsnap.com/i/NWhB2re4.jpg?0605",
+"aad":"https://iili.io/FdZjydv.jpg",
 "cli":"https://t.me/iqowoq",
 "tg":"https://t.me/iqowoq",
 "fb":"https://www.facebook.com/romeodyler99?mibextid=ZbWKwL",
