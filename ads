@@ -1,4 +1,4 @@
-{"image":"https://thumbsnap.com/i/NWhB2re4.jpg?0605",
+{"image":"",
 "link":"https://t.me/iqowoq",
 "aad":"https://thumbsnap.com/i/NWhB2re4.jpg?0605",
 "cli":"https://t.me/iqowoq",
