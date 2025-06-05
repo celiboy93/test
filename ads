@@ -1,6 +1,5 @@
 {"image":"https://iili.io/FdZjydv.jpg",
 "link":"https://t.me/iqowoq",
-"aad":"",
 "cli":"https://t.me/iqowoq",
 "tg":"https://t.me/iqowoq",
 "fb":"https://www.facebook.com/romeodyler99?mibextid=ZbWKwL",
