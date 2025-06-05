@@ -1,5 +1,5 @@
 {"image":"https://thumbsnap.com/i/7J8oqJKr.jpg?0605",
-"link":"https://t.me/iqowoq",
+"linkk":"https://t.me/iqowoq",
 "aad":"https://thumbsnap.com/i/NWhB2re4.jpg?0605",
 "cli":"https://t.me/iqowoq",
 "tg":"https://t.me/iqowoq",
