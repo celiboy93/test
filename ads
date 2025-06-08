@@ -3,7 +3,7 @@
 "sp":"",
 "linkk":"https://t.me/iqowoq",
 "aad":"",
-"cli":"https://t.me/iqowoq",
+"cli":"",
 "tg":"https://t.me/iqowoq",
 "fb":"https://www.facebook.com/romeodyler99?mibextid=ZbWKwL",
 "vk":"https://t.me/dp4uApk",
