@@ -6,6 +6,6 @@
 "cli":"https://t.me/iqowoq",
 "tg":"https://t.me/iqowoq",
 "fb":"https://www.facebook.com/romeodyler99?mibextid=ZbWKwL",
-"vk":"https://vk.com/darksite18plus",
+"vk":"https://t.me/dp4uApk",
 "detimg":"https://iili.io/FdZjydv.jpg",
 "detlink":"https://t.me/iqowoq"}
