@@ -1,10 +1,10 @@
 {Cancelable:"true",
-VIP:"true",
-movies:"true",
-hentai:"true",
+VIP:"false",
+movies:"false",
+hentai:"false",
 guide:"false",
 startid:"",
 adsopen:"false",
-view:"true",
-homeads:"true",
-IMGE:"true"}
+view:"false",
+homeads:"false",
+IMGE:"false"}
