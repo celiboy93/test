@@ -1,4 +1,4 @@
-{"image":"https://iili.io/FdZjydv.jpg",
+{"image":"https://thumbsnap.com/i/idwf1wAq.jpg?0620",
 "link":"https://t.me/iqowoq",
 "sp":"https://thumbsnap.com/i/4mdVnDGX.jpg?0608",
 "linkk":"https://t.me/iqowoq",
@@ -7,5 +7,5 @@
 "tg":"https://t.me/iqowoq",
 "fb":"https://www.facebook.com/romeodyler99?mibextid=ZbWKwL",
 "vk":"https://t.me/dp4uApk",
-"detimg":"https://iili.io/FdZjydv.jpg",
+"detimg":"https://thumbsnap.com/i/idwf1wAq.jpg?0620",
 "detlink":"https://t.me/iqowoq"}
