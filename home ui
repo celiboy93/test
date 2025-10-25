@@ -1,0 +1,150 @@
+{
+   "ad_type":"noads",
+   "startapp_ad_duration":"",
+   "startapp_add":"true",
+   "startapp_home_adview_1":"false",
+   "startapp_home_adview_2":"false",
+   "startapp_home_adview_3":"false",
+   "startapp_home_adview_4":"false",
+   "startapp_home_adview_5":"false",
+   "startapp_home_adview_6":"false",
+   "startapp_home_adview_7":"false",
+   "startapp_home_adview_8":"false",
+   "startapp_player_loader_adviews":"false",
+   "startapp_detail_top_adviews":"false",
+   "startapp_detail_big_adviews":"false",
+   "startapp_download_tool_adviews":"false",
+   "startapp_movies_bottom":"false",
+   "startapp_home_bottom":"false",
+   "startapp_movies_download":"false",
+   "startapp_link_download":"false",
+   "remove_ads_url":"https://mmdarkland.xyz/vipmember.html",
+   "vip_list_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/vipkeys/2024m03.json",
+   "vip_add_image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD9eX_ksAiTAJFYpUsiZv1v22FkNM_-cxCql01eMvZ7kCqH7sAqCOYpYKS0rc2bqbJFIzEA-5LCbHO02oM4eXF4BYPByBfngIgSMiAoi9OG_OqZkcoq5qYOnsbwxqVbQ8d0t6yNvYkddC2vkMw9wNJShYqrqknTymEE6QVCpInjen5rgZf508It9fjS0o/s1600/20231120_215207.jpg",
+   "vip_add_url":"",
+   "slide_images":[
+      {
+         "image_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/images/Orange%20Creative%20Big%20Sale%20Facebook%20Post.jpg",
+         "redirect_url":"https://mmdarkland.xyz/vipmember.html"
+      },
+      {
+         "image_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/images/notice_for_update_soon.png",
+         "redirect_url":""
+      }
+   ],
+   "home_adview_1":[
+      {
+         "image_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/Picsart_24-03-18_21-56-08-628.jpg",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://mmdarkland.xyz/vipmember.html"
+      }
+   ],
+   "home_adview_2":[
+      
+   ],
+   "home_adview_3":[
+      
+   ],
+   "home_adview_4":[
+      
+   ],
+   "home_adview_5":[
+      
+   ],
+   "home_adview_6":[
+      
+   ],
+   "home_adview_7":[
+      
+   ],
+   "home_adview_8":[
+      {
+         "image_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/images/20240324_011431.jpg",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://mmdarkland.xyz/vipmember.html"
+      }
+   ],
+   "player_loader_adviews":[
+      
+   ],
+   "detail_top_adviews":[
+      {
+         "image_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/Picsart_24-03-18_21-56-08-628.jpg",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://mmdarkland.xyz/vipmember.html"
+      }
+   ],
+   "detail_bottom_adviews":[
+      
+   ],
+   "movies_bottom":[
+      
+   ],
+   "home_bottom":[
+      
+   ],
+   "movies_download":[
+      {
+         "image_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/Picsart_24-03-18_21-56-08-628.jpg",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://mmdarkland.xyz/vipmember.html"
+      }
+   ],
+   "link_download":[
+      {
+         "image_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/Picsart_24-03-18_21-56-08-628.jpg",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://mmdarkland.xyz/vipmember.html"
+      }
+   ],
+   "cast_title":"Movies List",
+   "cast_url":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/cast.json",
+   "show_title_1":"JAV VIP 🔑🔥",
+   "movie_url_1":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipjapan/vipjapan",
+   "movie_category_url_1":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/category/main.json",
+   "vip_1":"true",
+   "show_title_2":"Korea Free",
+   "movie_url_2":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/korea/korea",
+   "movie_category_url_2":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/category/main.json",
+   "vip_2":"false",
+   "show_title_3":"USA VIP",
+   "movie_url_3":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipusa/vipusa",
+   "movie_category_url_3":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/category/main.json",
+   "vip_3":"true",
+   "show_title_4":"China VIP",
+   "movie_url_4":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipchina/vipchina",
+   "movie_category_url_4":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/category/main.json",
+   "vip_4":"true",
+   "show_title_5":"Korea VIP",
+   "movie_url_5":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipkorea/vipkorea",
+   "movie_category_url_5":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/category/main.json",
+   "vip_5":"true",
+   "show_title_6":"JAV Free",
+   "movie_url_6":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/japan/japan",
+   "movie_category_url_6":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/category/main.json",
+   "vip_6":"false",
+   "show_title_7":"Anime Free",
+   "movie_url_7":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/anime/anime",
+   "movie_category_url_7":"https://github.com/MgKaungMyatDEC/darklandapi/raw/main/category/main.json",
+   "vip_7":"false",
+   "update_title":"♨️Update version 1.0.2",
+   "update_icon":"https://c.tenor.com/SyyBm8FdDSUAAAAC/tenor.gif",
+   "update_message":"ဂေါင်းကြီးတို့ Updateတင်ပြီး အမုန်းကြိုက်လိုက်စို့ 🤩😋🥳...\n 🌚လက်ရှိသုံးပြုနေတဲ့versionကို မကြာမီ🚫 ပိတ်သွားတော့မှာဖြစ်ပါတယ်။ မြန်မြန်updateတင်ထားကြပါ😘😘 \nကျေးဇူးတင်ပါတယ်❤️။",
+   "update_force":true,
+   "update_versionCode":1000,
+   "playstore_link":"https://mmdarkland.xyz/update.html",
+   "download_link":"https://mmdarkland.xyz/update.html",
+   "noti_icon":"https://i.giphy.com/AWNxDbtHGIJDW.webp",
+   "noti_title":"မြန်မာကားအကြိုက်",
+   "noti_image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilRTZA45Suwf1hcwCZRsYm7ffUpnFCxiyaI3oA_zk9AS70-1S9oGZvBmkIcB1423yVIO7DmF05J-XqQxVkLZlcrLEvM1NLOTm4IB0sXSjvHM_YgxNHFerPt3tHeiOlsBnN_fCuuemEy99KkTy-04wZfS-uKBP7_dm1Mj5Ix-OwqDDOLu5bLlF6nRNJ915I/s1600/20231231_122716.jpg",
+   "noti_message":"Adminတို့က မြန်မာကားကြိုက်တဲ့သူတွေအတွက် လှပျိုဆိုတဲ့ ဆော့ဝဲလ်တစ်ခုဖန်တီးပေးထားပါတယ်။ \\လုံးဝဖရီးပါ။\\👇👇အောက်က ဒေါင်းမည်နှိပ်ပီးဒေါင်းပါ...\nThanks.",
+   "show_cancel":true,
+   "noti_show":false,
+   "noti_done_text":"ဒေါင်းမည်",
+   "noti_go_link":"https://play.google.com/store/apps/details?id=com.dl.dlent.hlapyo"
+}
